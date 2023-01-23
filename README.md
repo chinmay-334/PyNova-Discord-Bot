@@ -44,6 +44,7 @@ Features:
     bot.py
     ```
 
-4. Enjoy with the bot!
+4. Enjoy with the bot!  
+  
 
 **NOTE** : Make sure your Google account is logged into both the Discord Developer Portal and Discord. Otherwise you won't get the desired result. Also keep the note of the token in bot.
