@@ -24,3 +24,24 @@ Features:
 -[googleapis](https://github.com/googleapis/google-api-python-client)  
 -[discord applications](https://discord.com/developers/applications)  
 
+# Usage
+
+1. Clone this repository or download the script
+
+    ```bash
+    git clone https://github.com/chinmay-334/PyNova-Discord-Bot.git
+    ```
+
+2. Install necessary libraries
+
+    ```bash
+    pip install -r "requirements.txt"
+    ```
+
+3. Start the script
+
+    ```bash
+    bot.py
+    ```
+
+4. Enjoy with the bot!
