@@ -16,6 +16,9 @@ Features:
 -Optimised for both speed and memory  
 
 ## Essentials:
-[discord.ext](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html)  
-[discord API Reference](https://discordpy.readthedocs.io/en/stable/api.html#)  
-[discord bot commands framework](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html)  
+-[discord.ext](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html)  
+-[discord API Reference](https://discordpy.readthedocs.io/en/stable/api.html#)  
+-[discord bot commands framework](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html)  
+-[Python Speech Recognition Library](https://pypi.org/project/SpeechRecognition/)  
+-[Pyttsx3](https://pypi.org/project/pyttsx3/)  
+-[googleapis](https://github.com/googleapis/google-api-python-client)
