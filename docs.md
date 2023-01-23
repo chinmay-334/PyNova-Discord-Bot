@@ -4,7 +4,7 @@ This project was created for the FreeScape IIIT Kalyani club for the Introducti
   
 The reader can utilise the articles and/or github links we've supplied as resources to further explore this widely used project.  
   
-For this project, we'll be combining Python's Discord module with speech recognition software and Pyttsx3.  
+For this project, we'll be combining [Python Discord module](https://discordpy.readthedocs.io/en/stable/index.html) with [speech recognition](https://pypi.org/project/SpeechRecognition/) library and [pyttsx3](https://pypi.org/project/pyttsx3/).  
 
 ## Features as a bot:
 1. To reply to the user whenever called to do so.  
