@@ -14,3 +14,4 @@ For this project, we'll be combining [Python Discord module](https://discordpy.r
 5. To send Images and GIF's.  
 6. To play some interesting games.  
 
+### Refrences:
