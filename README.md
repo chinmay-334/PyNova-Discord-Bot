@@ -22,3 +22,5 @@ Features:
 -[Python Speech Recognition Library](https://pypi.org/project/SpeechRecognition/)  
 -[Pyttsx3](https://pypi.org/project/pyttsx3/)  
 -[googleapis](https://github.com/googleapis/google-api-python-client)
+-[discord applications](https://discord.com/developers/applications)  
+
