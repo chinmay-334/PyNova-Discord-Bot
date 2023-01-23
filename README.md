@@ -15,5 +15,4 @@ Features:
 -Easy to use with an object oriented design  
 -Optimised for both speed and memory  
 
-
-
+## Packages required for the project:
