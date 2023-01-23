@@ -2,7 +2,6 @@
 
 ### [1. Discord Developers Portal:](https://discord.com/developers/docs/intro)
 Discord offers an open API to serve requests for both bots and OAuth2 integrations.     
-Refrence: https://discord.com/developers/docs/intro  
 
 
 ### [2. Discord.py:](https://discordpy.readthedocs.io/en/stable/index.html#)
@@ -16,5 +15,5 @@ Features:
 -Easy to use with an object oriented design  
 -Optimised for both speed and memory  
 
-Reference: https://discordpy.readthedocs.io/en/stable/index.html#
+
 
