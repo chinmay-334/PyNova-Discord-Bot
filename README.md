@@ -16,6 +16,6 @@ Features:
 -Optimised for both speed and memory  
 
 ## Essentials:
-[discord.ext](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html)
-[discord API Reference](https://discordpy.readthedocs.io/en/stable/api.html#)
-[discord bot commands framework](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html)
+[discord.ext](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html)  
+[discord API Reference](https://discordpy.readthedocs.io/en/stable/api.html#)  
+[discord bot commands framework](https://discordpy.readthedocs.io/en/stable/ext/commands/index.html)  
