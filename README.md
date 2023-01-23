@@ -1,11 +1,11 @@
 # PyNova-Discord-Bot
 
-### **[1. Discord Developers Portal:](https://discord.com/developers/docs/intro) ** 
+### [1. Discord Developers Portal:](https://discord.com/developers/docs/intro)
 Discord offers an open API to serve requests for both bots and OAuth2 integrations.     
 Refrence: https://discord.com/developers/docs/intro  
 
 
-### **2. Discord.py:**  
+### [2. Discord.py:](https://discordpy.readthedocs.io/en/stable/index.html#)
 discord.py is a modern, easy to use, feature-rich, and async ready API wrapper for Discord.  
 
 Features:  
