@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "YOUR_CHATGPT_TOKEN"
 def tell_me(arg):
 	response = openai.Completion.create(
 	model="text-davinci-003",
