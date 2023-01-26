@@ -1,1 +1,4 @@
-
+pyttsx3
+speechRecognition
+discord
+people_also_ask
