@@ -13,4 +13,4 @@ coins INT NOT NULL,
 date TIMESTAMP
 );''')
 
-print("Table created successfully\n")
+print("Table created successfully\n") 
