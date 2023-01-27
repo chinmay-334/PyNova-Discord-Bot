@@ -16,9 +16,10 @@ For this project, we'll be combining [Python Discord module](https://discordpy.r
 
 ## What's new? 🤔 
 1. This bot uses the basics of the Natural Language Processing and delivers it as a message. 
-2. It uses the [ChatGPT API](https://github.com/terry3041/pyChatGPT#readme) to answer all your questions. 
+2. It uses the [ChatGPT API](https://openai.com/api/) to answer all your questions. 
 3. Also serves as an entertainment purpose through a game. (Just like Dank Memer)  
 
-**NOTE: If anyone who is new to API so here is the refrence for you: [Click here](https://github.com/terry3041/pyChatGPT#readme)**
+**NOTE: If anyone who is new to API so here is the refrence for you: [Click here](https://github.com/terry3041/pyChatGPT#readme)  
+        Link to the ChatGPT API: [Click Here](https://github.com/terry3041/pyChatGPT#readme)**
 
 ## Refrences:
