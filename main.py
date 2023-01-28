@@ -161,4 +161,4 @@ async def game(ctx):
                     tries = 0
             else:
                 return      
-bot.run("MTAwNTE4NTY4ODE2NzI2ODQ3Mw.GUjO6r.pvnktGMH29b5iVHRN75KdKFkEmQQxEgx8kiLaY") #run the client using using my bot's token
+bot.run("Your Token") #run the client using using my bot's token
