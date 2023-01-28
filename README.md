@@ -58,4 +58,4 @@ Features:
 ## Miscellaneous##
 1. [Meme API ](https://github.com/D3vd/Meme_Api)(Inspired from MEMELORD BOT which sends random memes in GC)
 2. [Discord Music Bot](https://github.com/topics/discord-music-bot?l=python)
-3. [Discord Python Voice Module](https://www.youtube.com/watch?v=wuVRK7r6iaI)
+3. [Discord Voice](https://www.youtube.com/watch?v=wuVRK7r6iaI)
