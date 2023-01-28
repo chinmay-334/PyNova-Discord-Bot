@@ -34,7 +34,6 @@ Features:
     ```
 
 2. Install necessary libraries
-
     ```bash
     pip install -r "requirements.txt"
     ```
@@ -49,3 +48,12 @@ Features:
   
 
 **NOTE** : Make sure your Google account is logged into both the Discord Developer Portal and Discord. Otherwise you won't get the desired result. Also keep the note of the token in bot.
+
+##Refrences ##
+1. [Python Discord](https://youtube.com/playlist?list=PLW3GfRiBCHOhfVoiDZpSz8SM_HybXRPzZ)
+2. [Speech Recognition](https://www.youtube.com/watch?v=mYUyaKmvu6Y)
+3. [Solution to the Intent Problem in Python discord bot](https://stackoverflow.com/questions/73397484/i-was-trying-to-make-a-discord-bot-when-i-got-an-intents-error)
+4. [Guide to the Virtual Environment creation in Python](https://www.youtube.com/watch?v=KxvKCSwlUv8) (Only for the experienced ones in python)
+
+##Miscellaneous##
+1. [Meme API(Inspired from MEMELORD BOT which sends random memes in GC)](https://github.com/D3vd/Meme_Api)
