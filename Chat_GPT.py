@@ -13,4 +13,4 @@ def tell_me(arg):
 	stop=[" Human:", " AI:"]
 	)
 	text = response['choices'][0]['text']
-	return text
+	return text 
