@@ -24,3 +24,7 @@ For this project, we'll be combining [Python Discord module](https://discordpy.r
 **-Link to the ChatGPT API: [Click Here](https://github.com/terry3041/pyChatGPT#readme)**
 
 ## Refrences:
+-Python Discord
+-Speech Recognition
+-Solution to the Intent Problem in Python discord bot
+-Guide to the Virtual Environment creation in Python (Only for the experienced ones in python)
