@@ -9,10 +9,12 @@ import sqlite3
 import webbrowser
 import random
 import people_also_ask
+#database
 conn = sqlite3.connect("xyzee.db")
 db = conn.cursor()
 coins=10000
 from webserver import keep_alive
+#we are taking api from the microsoft Speakers
 engine = pyttsx3.init()
 voice=engine.getProperty('voices')
 engine.setProperty('voice',voice[0].id)
@@ -22,6 +24,7 @@ def speak(audio):
         engine.runAndWait()
 
 def takecommand():
+                #connecting our python code with the microphone whenever required
                 r=sr.Recognizer()
                 with sr.Microphone() as source:
                                 print("Listening")
