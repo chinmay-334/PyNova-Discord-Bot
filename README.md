@@ -56,4 +56,4 @@ Features:
 4. [Guide to the Virtual Environment creation in Python](https://www.youtube.com/watch?v=KxvKCSwlUv8) (Only for the experienced ones in python)
 
 ## Miscellaneous##
-1. [Meme API (Inspired from MEMELORD BOT which sends random memes in GC)](https://github.com/D3vd/Meme_Api)
+1. [Meme API ](https://github.com/D3vd/Meme_Api)(Inspired from MEMELORD BOT which sends random memes in GC)
