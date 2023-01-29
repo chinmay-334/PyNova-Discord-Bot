@@ -20,7 +20,7 @@ For this project, we'll be combining [Python Discord module](https://discordpy.r
 3. Also serves as an entertainment purpose through a game. (Just like Dank Memer)  
 
 **NOTE:**  
-**-If anyone who is new to API so here is the refrence for you: [Click here](https://github.com/terry3041/pyChatGPT#readme)**  
+**-If anyone who is new to API so here is the refrence for you: [Click here](https://www.crio.do/blog/what-is-an-api/)**  
 **-Link to the ChatGPT API (Unofficial): [Click Here](https://github.com/terry3041/pyChatGPT#readme)**
 
 ## Refrences:
