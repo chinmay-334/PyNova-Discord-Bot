@@ -1,5 +1,7 @@
 # PyNova-Discord-Bot
 
+This project aims to develop a discord bot using necessary API's.
+
 ### [1. Discord Developers Portal:](https://discord.com/developers/docs/intro)
 Discord offers an open API to serve requests for both bots and OAuth2 integrations.     
 
